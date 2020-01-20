@@ -1,0 +1,4 @@
+jkl|loki|0
+p1|loki|4
+p2|loki|2
+p3|loki|3
